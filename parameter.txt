@@ -1,0 +1,17 @@
+N 500
+v1 3
+v2 2
+beta 6
+tc 10
+tf 5
+alpha1 0.6
+alpha2 0.2
+alpha3 0.5
+pf 10
+r 0.004
+R 0.0004
+s 0.75
+mu 0.05
+timeperiod 5000000
+run 1
+detail 2
